@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pteranodon/static/css/main.ea5f02f1.chunk.css",
+    "main.js": "/pteranodon/static/js/main.a54c4f74.chunk.js",
+    "main.js.map": "/pteranodon/static/js/main.a54c4f74.chunk.js.map",
+    "runtime-main.js": "/pteranodon/static/js/runtime-main.30f7014b.js",
+    "runtime-main.js.map": "/pteranodon/static/js/runtime-main.30f7014b.js.map",
+    "static/js/2.17f9b567.chunk.js": "/pteranodon/static/js/2.17f9b567.chunk.js",
+    "static/js/2.17f9b567.chunk.js.map": "/pteranodon/static/js/2.17f9b567.chunk.js.map",
+    "index.html": "/pteranodon/index.html",
+    "precache-manifest.68dc8f8f4da706ba4bcb9ebf644c09df.js": "/pteranodon/precache-manifest.68dc8f8f4da706ba4bcb9ebf644c09df.js",
+    "service-worker.js": "/pteranodon/service-worker.js",
+    "static/css/main.ea5f02f1.chunk.css.map": "/pteranodon/static/css/main.ea5f02f1.chunk.css.map",
+    "static/js/2.17f9b567.chunk.js.LICENSE.txt": "/pteranodon/static/js/2.17f9b567.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30f7014b.js",
+    "static/js/2.17f9b567.chunk.js",
+    "static/css/main.ea5f02f1.chunk.css",
+    "static/js/main.a54c4f74.chunk.js"
+  ]
+}
