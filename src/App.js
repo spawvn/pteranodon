@@ -24,7 +24,7 @@ class App extends React.Component {
 
   statics = {
     weatherEndpoint:
-      "http://dataservice.accuweather.com/forecasts/v1/daily/1day/",
+      "https://dataservice.accuweather.com/forecasts/v1/daily/1day/",
     weatherParams: {
       apikey: "aGrPwpwrDSfTi0dL9yrpLhcSQ6eOLQIi",
       metric: true
