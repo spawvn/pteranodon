@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pteranodon/precache-manifest.30ab5bacca797d8ffadd39bece05d028.js"
+  "/pteranodon/precache-manifest.834e3a696056e8019cb980a213087df8.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e69a0f396c72feb1e3a08b2e4193d921",
+    "revision": "13f8d9343103a2bd09f87ce6507494b2",
     "url": "/pteranodon/index.html"
   },
   {
-    "revision": "5e7ff1edab4110e44f58",
-    "url": "/pteranodon/static/css/main.ea5f02f1.chunk.css"
+    "revision": "80e9c0f24b07ecf48691",
+    "url": "/pteranodon/static/css/main.1b0b5bf2.chunk.css"
   },
   {
     "revision": "6eeab12656c996bb3e64",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pteranodon/static/js/2.17f9b567.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e7ff1edab4110e44f58",
+    "revision": "80e9c0f24b07ecf48691",
     "url": "/pteranodon/static/js/main.b2bda146.chunk.js"
   },
   {
