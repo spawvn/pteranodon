@@ -26,11 +26,9 @@
         .app-body {
             flex-direction: column;
             margin: 0 1em;
-			padding: 1em 0 3em 0;
         }
     }
 
     .app-footer {
-        position: absolute;
-        bottom: 1em;
+		margin: 1em 0;
     }
